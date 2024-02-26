@@ -1,5 +1,8 @@
 # Tema 2
 
+## Scop
+Folosirea conceptelor de programare orientată obiect: encapsularea, abstractizarea, moștenirea și polimorfismul.
+
 ## Implementare
 
 În cadrul acestei teme, pe lânga clasa principală ManagementPrimărie, am creat mai multe clase:

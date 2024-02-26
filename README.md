@@ -1,4 +1,4 @@
-# Tema 2
+# City Hall Management
 
 ## Scop
 Folosirea conceptelor de programare orientată obiect: encapsularea, abstractizarea, moștenirea și polimorfismul.
